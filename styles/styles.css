@@ -87,6 +87,7 @@ section {
     flex: 1;
     max-width: 60%; /* Adjust the width of the content area */
     margin-right: 2rem; /* Space between the text and image */
+    color: white
 }
 
 .home-content h3 {
