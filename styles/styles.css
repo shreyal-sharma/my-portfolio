@@ -243,6 +243,7 @@ section {
 
 .portfolio {
     background: var(--snd-bg-color);
+    color:var(--text-color)
 }
 .portfolio-title {
     font-size: 5rem; /* Increase the size of the title */
